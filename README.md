@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Valentine</h1>
 <h3 align="center">Student in 2nd Year at ENSAI</h3>
 
-- 🔭 I’m currently working on **Statistics Project**
+- 🔭 I’m currently working on a **Bio Statistics Project untitled** : *Validation d'un indicateur synthétique de la résistance bactérienne : application aux données nationales de surveillance 2012 - 2021, toutes régions, toutes espèces.*
 
-- 🌱 I’m currently learning **Datavisualisation, Java,**
+- 🌱 I’m currently learning **Datavisualisation, Java**
 
 - 👯 I’m looking to work in **Marketing Data Science**
 
